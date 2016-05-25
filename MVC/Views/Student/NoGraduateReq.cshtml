@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "NoGraduateReq";
+}
+@Scripts.Render("~/bundles/bootstrap")
+@Styles.Render("~/Content/css")
+
+<h2>NoGraduateReq <button class="btn btn-defaul" id="backToMenu" onclick="window.location.href = '/Student?id=A000001'"> Back to Menu </button></h2>
+
+<h4>Warning ! This is a graduate course</h4>
+<h4>Request Override?</h4>
+<div class="modal-dialog">
+    <div class="modal-content">
+        <!-- Modal Body -->
+        <div class="modal-body" id="divNoPreReq">
+            <form class="form-horizontal" method="post" action="~/Student/EnrollCourse?id=@ViewBag.id">
+
+                <div>
+                    <input type="submit" class="btn btn-primary" value="Request" id="idSubmitButton" />
+                    <input type="submit" class="btn btn-primary" value="Cancel" id="idSubmitButton" />
+                </div>
+
+            </form>
+        </div>
+    </div>
+</div>

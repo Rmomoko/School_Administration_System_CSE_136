@@ -1,0 +1,180 @@
+C:\Solution136\WebApi\bin\WebApi.dll.config
+C:\Solution136\WebApi\bin\WebApi.dll
+C:\Solution136\WebApi\bin\WebApi.pdb
+C:\Solution136\WebApi\bin\136IRepository.dll
+C:\Solution136\WebApi\bin\136Repository.dll
+C:\Solution136\WebApi\bin\136Service.dll
+C:\Solution136\WebApi\bin\Antlr3.Runtime.dll
+C:\Solution136\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Solution136\WebApi\bin\Newtonsoft.Json.dll
+C:\Solution136\WebApi\bin\POCO.dll
+C:\Solution136\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Solution136\WebApi\bin\System.Web.Helpers.dll
+C:\Solution136\WebApi\bin\System.Web.Http.dll
+C:\Solution136\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Solution136\WebApi\bin\System.Web.Mvc.dll
+C:\Solution136\WebApi\bin\System.Web.Optimization.dll
+C:\Solution136\WebApi\bin\System.Web.Razor.dll
+C:\Solution136\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Solution136\WebApi\bin\System.Web.WebPages.dll
+C:\Solution136\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Solution136\WebApi\bin\WebGrease.dll
+C:\Solution136\WebApi\bin\Ninject.dll
+C:\Solution136\WebApi\bin\Microsoft.Practices.Unity.dll
+C:\Solution136\WebApi\bin\136IRepository.pdb
+C:\Solution136\WebApi\bin\POCO.pdb
+C:\Solution136\WebApi\bin\136Repository.pdb
+C:\Solution136\WebApi\bin\136Service.pdb
+C:\Solution136\WebApi\bin\Newtonsoft.Json.xml
+C:\Solution136\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Solution136\WebApi\bin\System.Web.Helpers.xml
+C:\Solution136\WebApi\bin\System.Web.Http.xml
+C:\Solution136\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Solution136\WebApi\bin\System.Web.Mvc.xml
+C:\Solution136\WebApi\bin\System.Web.Optimization.xml
+C:\Solution136\WebApi\bin\System.Web.Razor.xml
+C:\Solution136\WebApi\bin\System.Web.WebPages.xml
+C:\Solution136\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Solution136\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Solution136\WebApi\bin\Antlr3.Runtime.pdb
+C:\Solution136\WebApi\bin\Ninject.pdb
+C:\Solution136\WebApi\bin\Ninject.xml
+C:\Solution136\WebApi\bin\Microsoft.Practices.Unity.xml
+C:\Solution136\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+C:\Solution136\WebApi\obj\Debug\WebApi.dll
+C:\Solution136\WebApi\obj\Debug\WebApi.pdb
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\WebApi\bin\WebApi.dll.config
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\WebApi\bin\WebApi.dll
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\WebApi\bin\WebApi.pdb
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\WebApi\bin\136IRepository.dll
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\WebApi\bin\136Repository.dll
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\WebApi\bin\136Service.dll
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\WebApi\bin\Antlr3.Runtime.dll
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\WebApi\bin\POCO.dll
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\WebApi\bin\System.Web.Helpers.dll
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\WebApi\bin\System.Web.Http.dll
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\WebApi\bin\System.Web.Mvc.dll
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\WebApi\bin\System.Web.Optimization.dll
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\WebApi\bin\System.Web.Razor.dll
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\WebApi\bin\System.Web.WebPages.dll
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\WebApi\bin\WebGrease.dll
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\WebApi\bin\Ninject.dll
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\WebApi\bin\Microsoft.Practices.Unity.dll
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\WebApi\bin\136IRepository.pdb
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\WebApi\bin\POCO.pdb
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\WebApi\bin\136Repository.pdb
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\WebApi\bin\136Service.pdb
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\WebApi\bin\System.Web.Helpers.xml
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\WebApi\bin\System.Web.Http.xml
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\WebApi\bin\System.Web.Mvc.xml
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\WebApi\bin\System.Web.Optimization.xml
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\WebApi\bin\System.Web.Razor.xml
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\WebApi\bin\System.Web.WebPages.xml
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\WebApi\bin\Ninject.pdb
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\WebApi\bin\Ninject.xml
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\WebApi\bin\Microsoft.Practices.Unity.xml
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\WebApi\obj\Debug\WebApi.dll
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\WebApi\obj\Debug\WebApi.pdb
+C:\Solution136\Solution136\WebApi\bin\WebApi.dll.config
+C:\Solution136\Solution136\WebApi\bin\WebApi.dll
+C:\Solution136\Solution136\WebApi\bin\WebApi.pdb
+C:\Solution136\Solution136\WebApi\bin\136IRepository.dll
+C:\Solution136\Solution136\WebApi\bin\136Repository.dll
+C:\Solution136\Solution136\WebApi\bin\136Service.dll
+C:\Solution136\Solution136\WebApi\bin\Antlr3.Runtime.dll
+C:\Solution136\Solution136\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Solution136\Solution136\WebApi\bin\Newtonsoft.Json.dll
+C:\Solution136\Solution136\WebApi\bin\POCO.dll
+C:\Solution136\Solution136\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Solution136\Solution136\WebApi\bin\System.Web.Helpers.dll
+C:\Solution136\Solution136\WebApi\bin\System.Web.Http.dll
+C:\Solution136\Solution136\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Solution136\Solution136\WebApi\bin\System.Web.Mvc.dll
+C:\Solution136\Solution136\WebApi\bin\System.Web.Optimization.dll
+C:\Solution136\Solution136\WebApi\bin\System.Web.Razor.dll
+C:\Solution136\Solution136\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Solution136\Solution136\WebApi\bin\System.Web.WebPages.dll
+C:\Solution136\Solution136\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Solution136\Solution136\WebApi\bin\WebGrease.dll
+C:\Solution136\Solution136\WebApi\bin\Ninject.dll
+C:\Solution136\Solution136\WebApi\bin\Microsoft.Practices.Unity.dll
+C:\Solution136\Solution136\WebApi\bin\136IRepository.pdb
+C:\Solution136\Solution136\WebApi\bin\POCO.pdb
+C:\Solution136\Solution136\WebApi\bin\136Repository.pdb
+C:\Solution136\Solution136\WebApi\bin\136Service.pdb
+C:\Solution136\Solution136\WebApi\bin\Newtonsoft.Json.xml
+C:\Solution136\Solution136\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Solution136\Solution136\WebApi\bin\System.Web.Helpers.xml
+C:\Solution136\Solution136\WebApi\bin\System.Web.Http.xml
+C:\Solution136\Solution136\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Solution136\Solution136\WebApi\bin\System.Web.Mvc.xml
+C:\Solution136\Solution136\WebApi\bin\System.Web.Optimization.xml
+C:\Solution136\Solution136\WebApi\bin\System.Web.Razor.xml
+C:\Solution136\Solution136\WebApi\bin\System.Web.WebPages.xml
+C:\Solution136\Solution136\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Solution136\Solution136\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Solution136\Solution136\WebApi\bin\Antlr3.Runtime.pdb
+C:\Solution136\Solution136\WebApi\bin\Ninject.pdb
+C:\Solution136\Solution136\WebApi\bin\Ninject.xml
+C:\Solution136\Solution136\WebApi\bin\Microsoft.Practices.Unity.xml
+C:\Solution136\Solution136\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+C:\Solution136\Solution136\WebApi\obj\Debug\WebApi.dll
+C:\Solution136\Solution136\WebApi\obj\Debug\WebApi.pdb
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\WebApi\bin\WebApi.dll.config
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\WebApi\bin\WebApi.dll
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\WebApi\bin\WebApi.pdb
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\WebApi\bin\136IRepository.dll
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\WebApi\bin\136Repository.dll
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\WebApi\bin\136Service.dll
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\WebApi\bin\Antlr3.Runtime.dll
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\WebApi\bin\POCO.dll
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\WebApi\bin\System.Web.Helpers.dll
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\WebApi\bin\System.Web.Http.dll
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\WebApi\bin\System.Web.Mvc.dll
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\WebApi\bin\System.Web.Optimization.dll
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\WebApi\bin\System.Web.Razor.dll
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\WebApi\bin\System.Web.WebPages.dll
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\WebApi\bin\WebGrease.dll
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\WebApi\bin\Ninject.dll
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\WebApi\bin\Microsoft.Practices.Unity.dll
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\WebApi\bin\136IRepository.pdb
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\WebApi\bin\POCO.pdb
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\WebApi\bin\136Repository.pdb
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\WebApi\bin\136Service.pdb
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\WebApi\bin\System.Web.Helpers.xml
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\WebApi\bin\System.Web.Http.xml
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\WebApi\bin\System.Web.Mvc.xml
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\WebApi\bin\System.Web.Optimization.xml
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\WebApi\bin\System.Web.Razor.xml
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\WebApi\bin\System.Web.WebPages.xml
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\WebApi\bin\Ninject.pdb
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\WebApi\bin\Ninject.xml
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\WebApi\bin\Microsoft.Practices.Unity.xml
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\WebApi\obj\Debug\WebApi.dll
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\WebApi\obj\Debug\WebApi.pdb

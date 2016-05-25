@@ -1,0 +1,15 @@
+﻿@{
+    ViewBag.Title = "Instructor";
+}
+
+@Styles.Render("~/Content/css")
+@Scripts.Render("~/bundles/bootstrap")
+<h2>Welcome instructor</h2>
+
+<div id="taskList">
+    <ul>
+        <li><a href="~/Instructor/Edit?id=1">Edit my info</a></li>
+        <li><a href="~/Instructor/GetTeachingCourse?id=1">Assign Student grade</a></li>
+        <li><a href="~/Instructor/ViewGradeChangeRequest"> Student Grade Change Request</a></li>
+    </ul>
+</div>

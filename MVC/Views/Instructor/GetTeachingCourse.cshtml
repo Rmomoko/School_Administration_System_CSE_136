@@ -1,0 +1,39 @@
+﻿@{
+    ViewBag.Title = "GetTeachingCourse";
+    var id = ViewBag.id;
+}
+
+<h2>Currently Teaching Courses <button class="btn btn-defaul" id="backToMenu" onclick="window.location.href = '/Instructor?id=1'"> Back to Menu </button></h2>
+
+<div id="divInstructorCourseContent">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>ScheduleId</th>
+                <th>InstructorId</th>
+                <th>CourseTitle</th>
+                <th>Year</th>
+                <th>Quarter</th>
+                <th>Session</th>
+            </tr>
+        </thead>
+        <tbody data-bind="foreach: viewModel.instructorCourseList">
+            <tr>
+                <td data-bind="text: scheduleId, value: $data.scheduleId"></td>
+                <td data-bind="text: instructorId, value: $data.instructorId"></td>
+                <td data-bind="text: courseTitle, value: $data.courseTitle"></td>
+                <td data-bind="text: year, value: $data.year"></td>
+                <td data-bind="text: quarter, value: $data.quarter"></td>
+                <td data-bind="text: session, value: $data.session"></td>
+                <td><a data-bind="attr: {href: '/Instructor/AssignGrade?id='+scheduleId}">Assign Grade</a></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        var instructorCourseViewModelObj = new InstructorCourseViewModel();
+        instructorCourseViewModelObj.Initialize(@id);
+    });
+</script>

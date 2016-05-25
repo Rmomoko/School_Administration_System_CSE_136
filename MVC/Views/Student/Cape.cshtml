@@ -1,0 +1,16 @@
+﻿@{
+    ViewBag.Title = "Cape";
+    var id = ViewBag.id;
+}
+@Styles.Render("~/Content/css")
+@Scripts.Render("~/bundles/bootstrap")
+
+
+<h2>Cape <button class="btn btn-defaul" id="backToMenu" onclick="window.location.href = '/Student?id=A000001'"> Back to Menu </button></h2>
+
+<div id="taskList">
+    <ul>
+        <li><a href="~/Student/ViewCape?id=@ViewBag.id">View Cape of All Courses</a></li>
+        <li><a href="~/Student/WriteCape?id=@ViewBag.id">Write Cape For Your Courses</a></li>
+    </ul>
+</div>

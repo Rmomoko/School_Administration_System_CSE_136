@@ -1,0 +1,15 @@
+﻿@{
+    ViewBag.Title = "Student";
+    var id = ViewBag.id;
+}
+
+<h2>Welcome Student <button class="btn btn-defaul" id="backToMenu" onclick="window.location.href = '/Student?id=A000001'"> Back to Menu </button></h2>
+
+<div id="taskList">
+    <ul>
+        <li><a href="~/Student/Edit?id=@ViewBag.id">Edit Student Info</a></li>
+        <li><a href="~/Student/Cape?id=@ViewBag.id">Cape</a></li>
+        <li><a href="~/Student/AcademicHistory?id=@ViewBag.id">View Academic History</a></li>
+        <li><a href="~/Student/ManageCourse?id=@ViewBag.id">Manage Enrolled Courses</a></li>
+    </ul>
+</div>

@@ -1,0 +1,47 @@
+﻿@{
+    ViewBag.Title = "CapeForm";
+    var id = ViewBag.id;
+}
+
+<h2>CapeForm <button class="btn btn-defaul" id="backToMenu" onclick="window.location.href = '/Student?id=A000001'"> Back to Menu </button></h2>
+
+<div id="divCapeData">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Course Title</th>
+                <th>Easiness</th>
+                <th>Helpfulness</th>
+                <th>Clarity</th>
+                <th>Hours Spend (Per Week)</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td data-bind="value: $data.courseTitle">@id</td>
+                <td>
+                    <select class="form-control" data-bind="options: $data.easinessSel , value: $data.easiness"></select>
+                </td>
+                <td>
+                    <select class="form-control" data-bind="options: $data.helpfulnessSel, value: $data.helpfulness"></select>
+                </td>
+                <td>
+                    <select class="form-control" data-bind="options: $data.claritySel, value: $data.clarity"></select>
+                </td>
+                <td>
+                    <input type="text" data-bind="text: hoursSpend, value: $data.hoursSpend" />
+                </td>
+                <td>
+                <td><button class="btn btn-default" data-bind="value: 'insertCape', click: $data.insertCape">Submit Cape</button></td></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        var InsertCapeViewModelObj = new InsertCapeViewModel();
+        InsertCapeViewModelObj.Load("@id");
+    });
+</script>
+

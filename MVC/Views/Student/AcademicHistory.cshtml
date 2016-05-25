@@ -1,0 +1,40 @@
+﻿@{
+    ViewBag.Title = "AcademicHistory";
+    var id = ViewBag.id;
+}
+
+<h2>AcademicHistory <button class="btn btn-defaul" id="backToMenu" onclick="window.location.href = '/Student?id=A000001'"> Back to Menu </button></h2>
+
+<div id="divStudentTakenCourse">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Student Id</th>
+                <th>Course Id</th>
+                <th>Course Title</th>
+                <th>Year</th>
+                <th>Quarter</th>
+                <th>Grade</th>
+            </tr>
+        </thead>
+        <tbody data-bind="foreach: viewModel.studentTakenCourseList">
+            <tr>
+                <td data-bind="text: studentId, value: $data.studentId"></td>
+                <td data-bind="text: courseId, value: $data.courseId"></td>
+                <td data-bind="text: courseTitle, value: $data.courseTitle"></td>
+                <td data-bind="text: year, value: $data.year"></td>
+                <td data-bind="text: quarter, value: $data.quarter"></td>
+                <td data-bind="text: grade, value: $data.grade"></td>
+                <td><a data-bind="attr:{href: '/Student/GradeChangeForm?id='+courseId}">Request Grade Change</a></td>
+            </tr>
+        </tbody>
+</table>
+</div>
+
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        var studentTakenCourseViewModelObj = new StudentTakenCourseViewModel();
+        studentTakenCourseViewModelObj.Initialize("@id");
+    });
+</script>

@@ -1,0 +1,33 @@
+﻿@{
+    ViewBag.Title = "WriteCape";
+    var id = ViewBag.id;
+}
+
+<h2>WriteCape <button class="btn btn-defaul" id="backToMenu" onclick="window.location.href = '/Student?id=A000001'"> Back to Menu </button></h2>
+
+<h3>Enrolled Courses</h3>
+
+<div id="divEnrollmentContent">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Schedule Id</th>
+                <th>Course Title</th>
+            </tr>
+        </thead>
+        <tbody data-bind="foreach: viewModel.enrollmentList">
+            <tr>
+                <td data-bind="text: courseId, value: $data.courseId"></td>
+                <td data-bind="text: courseTitle, value: $data.courseTitle"></td>
+                <td><a data-bind="attr:{href: '/Student/CapeForm?id='+courseTitle}">Write Cape</a></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        var EnrollmentViewModelObj = new EnrollmentViewModel();
+        EnrollmentViewModelObj.Initialize("@id");
+    });
+</script>

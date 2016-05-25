@@ -1,0 +1,55 @@
+﻿
+@{
+    ViewBag.Title = "GradeChangeForm";
+}
+@Scripts.Render("~/bundles/bootstrap")
+@Styles.Render("~/Content/css")
+
+
+<h2>Grade Change Form <button class="btn btn-defaul" id="backToMenu" onclick="window.location.href = '/Student?id=A000001'"> Back to Menu </button></h2>
+
+<div class="modal-dialog">
+    <div class="modal-content">
+        <!-- Modal Body -->
+        <div class="modal-body" id="divGradeChange">
+            <form class="form-horizontal" method="post" action="~/Student/AcademicHistory?id=@ViewBag.id">
+                <div class="form-group">
+                    <label class="col-sm-2 control-label">Course</label>
+                    <div class="col-sm-10">
+                        <input type="text" name="course" class="form-control" />
+                        <!--  <input type="text" name="email" class="form-control" value="admin@cs.ucsd.edu" />  -->
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label class="col-sm-2 control-label">Student Id</label>
+                    <div class="col-sm-10">
+                        <input type="text" name="studentid" class="form-control" />
+                        <!--    <input type="password" name="password" class="form-control" value="password" />  -->
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label class="col-sm-2 control-label">Instructor Id</label>
+                    <div class="col-sm-10">
+                        <input type="text" name="intructorid" class="form-control" />
+                        <!--    <input type="password" name="password" class="form-control" value="password" />  -->
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label class="col-sm-2 control-label">Reason</label>
+                    <div class="col-sm-10">
+                        <input type="text" name="reason" class="form-control" />
+                        <!--    <input type="password" name="password" class="form-control" value="password" />  -->
+                    </div>
+                </div>
+
+                <div class="modal-footer">
+                    <input type="submit" class="btn btn-primary" value="Submit" id="idSubmitButton" />
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+

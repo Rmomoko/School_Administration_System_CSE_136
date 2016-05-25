@@ -1,0 +1,48 @@
+﻿
+@{
+    ViewBag.Title = "ViewGradeChangeRequest";
+}
+@Scripts.Render("~/bundles/cse136")
+@Styles.Render("~/Content/css")
+@Scripts.Render("~/bundles/bootstrap")
+
+<h2>ViewGradeChangeRequest <button class="btn btn-defaul" id="backToMenu" onclick="window.location.href = '/Instructor?id=1'"> Back to Menu </button></h2>
+
+<div>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Student Id</th>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Course Id </th>
+                <th>Action </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>A000001</td>
+                <td>John</td>
+                <td>Doe</td>
+                <td>001</td>
+                <td><a href="~/Instructor/GradeChangeForm">View Request</a></td>
+            </tr>
+
+            <tr>
+                <td>A000002</td>
+                <td>Jeff</td>
+                <td>Kastin</td>
+                <td>002</td>
+                <td><a href="~/Instructor/GradeChangeForm">View Request</a></td>
+            </tr>
+
+            <tr>
+                <td>A000003</td>
+                <td>Bob</td>
+                <td>Grollage</td>
+                <td>031</td>
+                <td><a href="~/Instructor/GradeChangeForm">View Request</a></td>
+            </tr>
+        </tbody>
+    </table>
+</div>

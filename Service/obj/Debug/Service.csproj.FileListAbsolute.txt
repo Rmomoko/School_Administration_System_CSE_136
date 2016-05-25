@@ -1,0 +1,64 @@
+C:\Solution136\Service\bin\Debug\136Service.dll
+C:\Solution136\Service\bin\Debug\136Service.pdb
+C:\Solution136\Service\bin\Debug\136IRepository.dll
+C:\Solution136\Service\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Solution136\Service\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Solution136\Service\bin\Debug\Ninject.dll
+C:\Solution136\Service\bin\Debug\POCO.dll
+C:\Solution136\Service\bin\Debug\136IRepository.pdb
+C:\Solution136\Service\bin\Debug\POCO.pdb
+C:\Solution136\Service\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Solution136\Service\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Solution136\Service\bin\Debug\Ninject.pdb
+C:\Solution136\Service\bin\Debug\Ninject.xml
+C:\Solution136\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Solution136\Service\obj\Debug\136Service.dll
+C:\Solution136\Service\obj\Debug\136Service.pdb
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\Service\bin\Debug\136Service.dll
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\Service\bin\Debug\136Service.pdb
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\Service\bin\Debug\136IRepository.dll
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\Service\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\Service\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\Service\bin\Debug\Ninject.dll
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\Service\bin\Debug\POCO.dll
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\Service\bin\Debug\136IRepository.pdb
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\Service\bin\Debug\POCO.pdb
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\Service\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\Service\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\Service\bin\Debug\Ninject.pdb
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\Service\bin\Debug\Ninject.xml
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\Service\obj\Debug\136Service.dll
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\Service\obj\Debug\136Service.pdb
+C:\Solution136\Solution136\Service\bin\Debug\136Service.dll
+C:\Solution136\Solution136\Service\bin\Debug\136Service.pdb
+C:\Solution136\Solution136\Service\bin\Debug\136IRepository.dll
+C:\Solution136\Solution136\Service\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Solution136\Solution136\Service\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Solution136\Solution136\Service\bin\Debug\Ninject.dll
+C:\Solution136\Solution136\Service\bin\Debug\POCO.dll
+C:\Solution136\Solution136\Service\bin\Debug\136IRepository.pdb
+C:\Solution136\Solution136\Service\bin\Debug\POCO.pdb
+C:\Solution136\Solution136\Service\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Solution136\Solution136\Service\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Solution136\Solution136\Service\bin\Debug\Ninject.pdb
+C:\Solution136\Solution136\Service\bin\Debug\Ninject.xml
+C:\Solution136\Solution136\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Solution136\Solution136\Service\obj\Debug\136Service.dll
+C:\Solution136\Solution136\Service\obj\Debug\136Service.pdb
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\Service\bin\Debug\136Service.dll
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\Service\bin\Debug\136Service.pdb
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\Service\bin\Debug\136IRepository.dll
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\Service\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\Service\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\Service\bin\Debug\Ninject.dll
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\Service\bin\Debug\POCO.dll
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\Service\bin\Debug\136IRepository.pdb
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\Service\bin\Debug\POCO.pdb
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\Service\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\Service\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\Service\bin\Debug\Ninject.pdb
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\Service\bin\Debug\Ninject.xml
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\Service\obj\Debug\136Service.dll
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\Service\obj\Debug\136Service.pdb

@@ -1,0 +1,38 @@
+C:\Solution136\ServiceTest\bin\Debug\136ServiceTest.dll.config
+C:\Solution136\ServiceTest\bin\Debug\136ServiceTest.dll
+C:\Solution136\ServiceTest\bin\Debug\136ServiceTest.pdb
+C:\Solution136\ServiceTest\bin\Debug\136IRepository.dll
+C:\Solution136\ServiceTest\bin\Debug\136Service.dll
+C:\Solution136\ServiceTest\bin\Debug\Moq.dll
+C:\Solution136\ServiceTest\bin\Debug\POCO.dll
+C:\Solution136\ServiceTest\bin\Debug\Ninject.dll
+C:\Solution136\ServiceTest\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Solution136\ServiceTest\bin\Debug\136IRepository.pdb
+C:\Solution136\ServiceTest\bin\Debug\POCO.pdb
+C:\Solution136\ServiceTest\bin\Debug\136Service.pdb
+C:\Solution136\ServiceTest\bin\Debug\Moq.xml
+C:\Solution136\ServiceTest\bin\Debug\Ninject.pdb
+C:\Solution136\ServiceTest\bin\Debug\Ninject.xml
+C:\Solution136\ServiceTest\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Solution136\ServiceTest\obj\Debug\ServiceTest.csprojResolveAssemblyReference.cache
+C:\Solution136\ServiceTest\obj\Debug\136ServiceTest.dll
+C:\Solution136\ServiceTest\obj\Debug\136ServiceTest.pdb
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\ServiceTest\bin\Debug\136ServiceTest.dll.config
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\ServiceTest\bin\Debug\136ServiceTest.dll
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\ServiceTest\bin\Debug\136ServiceTest.pdb
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\ServiceTest\bin\Debug\136IRepository.dll
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\ServiceTest\bin\Debug\136Service.dll
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\ServiceTest\bin\Debug\Moq.dll
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\ServiceTest\bin\Debug\POCO.dll
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\ServiceTest\bin\Debug\Ninject.dll
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\ServiceTest\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\ServiceTest\bin\Debug\136IRepository.pdb
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\ServiceTest\bin\Debug\POCO.pdb
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\ServiceTest\bin\Debug\136Service.pdb
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\ServiceTest\bin\Debug\Moq.xml
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\ServiceTest\bin\Debug\Ninject.pdb
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\ServiceTest\bin\Debug\Ninject.xml
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\ServiceTest\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\ServiceTest\obj\Debug\ServiceTest.csprojResolveAssemblyReference.cache
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\ServiceTest\obj\Debug\136ServiceTest.dll
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\ServiceTest\obj\Debug\136ServiceTest.pdb

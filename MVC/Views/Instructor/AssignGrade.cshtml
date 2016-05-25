@@ -1,0 +1,44 @@
+﻿@{
+    ViewBag.Title = "AssignGrade";
+    var id = ViewBag.id;
+}
+
+@Styles.Render("~/Content/css")
+@Scripts.Render("~/bundles/bootstrap")
+
+    <h2>Assign Grade to Schedule @id<button class="btn btn-defaul" id="backToMenu" onclick="window.location.href = '/Instructor?id=1'"> Back to Menu </button></h2>
+
+<div id="divStudentEnrollListContent">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>StudentId</th>
+                <th>ScheduleId</th>
+                <th>CourseId</th>
+                <th>GradeOption</th>
+                <th>Grade</th>
+            </tr>
+        </thead>
+        <tbody data-bind="foreach: viewModel.studentEnrollList">
+            <tr>
+                <td data-bind="text: studentId, value: $data.studentId"></td>
+                <td data-bind="text: scheduleId, value: $data.scheduleId"></td>
+                <td data-bind="text: courseId, value: $data.courseId"></td>
+                <td data-bind="text: gradeOption, value: $data.gradeOption"></td>
+                <td><select class="form-control" data-bind="options: $data.gradeSel, value: $data.grade"></select></td>
+                <td><button class="btn btn-default" data-bind="value: 'updateGrade', click: $data.updateGrade">Update Grade</button></td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+            </tr>
+        </tfoot>
+    </table>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        var studentEnrollListViewModelObj = new StudentEnrollListViewModel();
+        studentEnrollListViewModelObj.Initialize(@id);
+    });
+</script>

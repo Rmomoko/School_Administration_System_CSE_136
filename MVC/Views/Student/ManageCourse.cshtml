@@ -1,0 +1,40 @@
+﻿@{
+    ViewBag.Title = "ManageCourse";
+    var id = ViewBag.id;
+}
+
+<h2>ManageCourse <button class="btn btn-defaul" id="backToMenu" onclick="window.location.href = '/Student?id=A000001'"> Back to Menu </button></h2>
+
+<h3>Enrolled Courses</h3>
+
+<div id="divEnrollmentContent">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Student Id</th>
+                <th>Course Id</th>
+                <th>Course Title</th>
+            </tr>
+        </thead>
+        <tbody data-bind="foreach: viewModel.enrollmentList">
+            <tr>
+                <td data-bind="text: studentId, value: $data.studentId"></td>
+                <td data-bind="text: courseId, value: $data.courseId"></td>
+                <td data-bind="text: courseTitle, value: $data.courseTitle"></td>
+                <td><button class="btn btn-default" data-bind="click: $parent.viewModel.deleteStudentEnrollment">Drop Course</button></td>
+            </tr>
+        </tbody>
+    </table>
+    <form class="form-horizontal" method="post" action="~/Student/EnrollCourse?id=@ViewBag.id">
+        <div class="modal-footer">
+            <input type="submit" class="btn btn-primary" value="Enroll in Other Classes" id="idSubmitButton" />
+        </div>
+    </form>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        var EnrollmentViewModelObj = new EnrollmentViewModel();
+        EnrollmentViewModelObj.Initialize("@id");
+    });
+</script>

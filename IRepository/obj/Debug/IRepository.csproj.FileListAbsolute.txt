@@ -1,0 +1,28 @@
+C:\Solution136\IRepository\bin\Debug\136IRepository.dll
+C:\Solution136\IRepository\bin\Debug\136IRepository.pdb
+C:\Solution136\IRepository\bin\Debug\POCO.dll
+C:\Solution136\IRepository\bin\Debug\POCO.pdb
+C:\Solution136\IRepository\obj\Debug\IRepository.csprojResolveAssemblyReference.cache
+C:\Solution136\IRepository\obj\Debug\136IRepository.dll
+C:\Solution136\IRepository\obj\Debug\136IRepository.pdb
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\IRepository\bin\Debug\136IRepository.dll
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\IRepository\bin\Debug\136IRepository.pdb
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\IRepository\bin\Debug\POCO.dll
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\IRepository\bin\Debug\POCO.pdb
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\IRepository\obj\Debug\IRepository.csprojResolveAssemblyReference.cache
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\IRepository\obj\Debug\136IRepository.dll
+C:\Users\DAI\Desktop\9.1-2 Solution 136\Solution136\Solution136\IRepository\obj\Debug\136IRepository.pdb
+C:\Solution136\Solution136\IRepository\bin\Debug\136IRepository.dll
+C:\Solution136\Solution136\IRepository\bin\Debug\136IRepository.pdb
+C:\Solution136\Solution136\IRepository\bin\Debug\POCO.dll
+C:\Solution136\Solution136\IRepository\bin\Debug\POCO.pdb
+C:\Solution136\Solution136\IRepository\obj\Debug\IRepository.csprojResolveAssemblyReference.cache
+C:\Solution136\Solution136\IRepository\obj\Debug\136IRepository.dll
+C:\Solution136\Solution136\IRepository\obj\Debug\136IRepository.pdb
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\IRepository\bin\Debug\136IRepository.dll
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\IRepository\bin\Debug\136IRepository.pdb
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\IRepository\bin\Debug\POCO.dll
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\IRepository\bin\Debug\POCO.pdb
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\IRepository\obj\Debug\IRepository.csprojResolveAssemblyReference.cache
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\IRepository\obj\Debug\136IRepository.dll
+C:\Users\DAI\Desktop\9.2-3 Solution 136\Solution136\Solution136\Solution136\IRepository\obj\Debug\136IRepository.pdb

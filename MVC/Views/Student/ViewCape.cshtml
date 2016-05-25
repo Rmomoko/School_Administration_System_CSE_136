@@ -1,0 +1,36 @@
+﻿@{
+    ViewBag.Title = "ViewCape";
+}
+
+<h2>ViewCape <button class="btn btn-defaul" id="backToMenu" onclick="window.location.href = '/Student?id=A000001'"> Back to Menu </button></h2>
+<br />
+
+<div id="divCapeContent">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Course Title</th>
+                <th>Average Easiness</th>
+                <th>Average Helpfulness</th>
+                <th>Average Clarity</th>
+                <th>Average HoursSpend</th>
+            </tr>
+        </thead>
+        <tbody data-bind="foreach: viewModel.capeList">
+            <tr>
+                <td data-bind="text: courseTitle, value: $data.courseTitle"></td>
+                <td data-bind="text: easiness, value: $data.easiness"></td>
+                <td data-bind="text: helpfulness, value: $data.helpfulness"></td>
+                <td data-bind="text: clarity, value: $data.clarity"></td>
+                <td data-bind="text: hoursSpend, value: $data.hoursSpend"></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        var CapeViewModelObj = new CapeViewModel();
+        CapeViewModelObj.Initialize();
+    });
+</script>

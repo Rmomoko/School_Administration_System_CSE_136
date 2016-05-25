@@ -1,0 +1,16 @@
+﻿@{
+    ViewBag.Title = "Admin";
+}
+@Styles.Render("~/Content/css")
+@Scripts.Render("~/bundles/bootstrap")
+<h2>Welcome admin</h2>
+
+<div id="taskList">
+    <ul>
+        <li><a href="~/Admin/Edit?id=@ViewBag.id">Edit my info</a></li>
+        <li><a href="~/Admin/StudentList">Show All Students</a></li>
+        <li><a href="~/Admin/ManageStudentCourse?id=@ViewBag.id">Manage Student Academic History</a></li>
+        <li><a href="~/Admin/PrereqOverrideApplication">Prerequisite Override Applications</a></li>
+        <li><a href="~/Admin/GraduateCourseApplication">Graduate Course Override Applications</li>
+    </ul>
+</div>
